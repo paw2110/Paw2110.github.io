@@ -1,2 +1,2 @@
 - [Kage opskrift](Opskrifter.html)
-- [LogiskeOperatorer](logiske operatorer)
+- [LogiskeOperatorer](Opskrifter.html/logiske operatorer)
