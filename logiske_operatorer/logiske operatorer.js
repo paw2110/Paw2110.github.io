@@ -9,9 +9,9 @@ function setup() {
     circle(mouseX,mouseY,75) 
     
     if(mouseX<=width/2&&mouseY<=height/2||mouseX>=width/2&&mouseY>=height/2)
-      fill(125,255,255)
+      fill(255,255,255)
     
     if(mouseX<=width/2&&mouseY>=height/2||mouseX>=width/2&&mouseY<=height/2)
-      fill(255,125,0)
+      fill(255,0,0)
     
-  }   
+  }
