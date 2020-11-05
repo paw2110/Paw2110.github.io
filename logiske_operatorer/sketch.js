@@ -12,6 +12,6 @@ function setup() {
       fill(255,255,255)
     
     if(mouseX<=width/2&&mouseY>=height/2||mouseX>=width/2&&mouseY<=height/2)
-      fill(255,0,0)
+      fill(255,1,0)
     
   }
