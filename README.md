@@ -2,3 +2,4 @@
 - [Kage opskrift](Opskifter.html)
 - [logiske Operatorer](logiske_operatorer)
 - [Bounce Ball](Hoppe_bolde)
+- [Parabler](Parabler)
