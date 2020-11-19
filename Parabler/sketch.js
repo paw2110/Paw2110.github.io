@@ -10,5 +10,5 @@ function setup() {
     circle(width/2,mouseY,10)
     line(20,20,300,mouseY)
     line(580,20,300,mouseY)  
-   
+  
   }
