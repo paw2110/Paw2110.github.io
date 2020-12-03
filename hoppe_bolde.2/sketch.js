@@ -1,4 +1,4 @@
-let balls = new Array(50);
+let balls = new Array(10);
 
 function setup() {
     createCanvas(windowWidth, windowHeight);
@@ -33,11 +33,11 @@ class RandomBall {
         this.x += this.speedX
         this.y += this.speedY
 
-        if (this.x + this.d > width || this.x - this.d < 0) {
+        if (this.x + this.d/2 > width || this.x - this.d/2 < 0) {
             this.speedX = -this.speedX
         }
 
-        if (this.y + this.d > height || this.y - this.d < 0) {
+        if (this.y + this.d/2 > height || this.y - this.d/2 < 0) {
             this.speedY = -this.speedY
         }
     }
